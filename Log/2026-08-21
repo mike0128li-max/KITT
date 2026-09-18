@@ -1,0 +1,5 @@
+Have started with K230. Has successfully include face recognition of me and my mom's faces.
+
+How register face on K230?
+	just take a picture in the module, then plug the module into your PC. Go to windows file manager and go to "This PC", click "CanMV". The picture we take will be in the "data" folder. Inside, create a folder called "face_register" and paste the picture into the folder. Then back to K230 GUI, click register faces, and you are good to go!
+
